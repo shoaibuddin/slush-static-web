@@ -1,4 +1,4 @@
-# Slush Static-web [![Build Status](https://secure.travis-ci.org/shoaibuddin/slush-static-web.png?branch=master)](https://travis-ci.org/shoaibuddin/slush-static-web) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-static-web.png)](http://badges.enytc.com/for/npm/slush-static-web)
+# Slush Static-web [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-static-web.png)](http://badges.enytc.com/for/npm/slush-static-web)
 
 > A generator for static websites with live-reload
 

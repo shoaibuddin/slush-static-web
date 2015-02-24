@@ -1,4 +1,4 @@
-# Slush Static-web [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-static-web.png)](http://badges.enytc.com/for/npm/slush-static-web)
+# Slush Static-Web [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-static-web.png)](http://badges.enytc.com/for/npm/slush-static-web)
 
 > A generator for static websites with live-reload
 
